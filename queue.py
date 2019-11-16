@@ -1,7 +1,7 @@
 # coding: utf-8
 # Your code here!
 
-$ring buffer
+#ring buffer
 class Queue:
 
     def __init__(self,size=10):
