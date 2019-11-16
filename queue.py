@@ -1,8 +1,9 @@
 # coding: utf-8
 # Your code here!
 
+$ring buffer
 class Queue:
-    
+
     def __init__(self,size=10):
         self.entries = [None for _ in range(size)]
         self.size = size
